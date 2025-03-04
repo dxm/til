@@ -38,7 +38,7 @@
 
 ### Vim
 
-- [Setup Pack Plugins](libvirt/setup-pack-plugins.md)
+- [Setup Pack Plugins](vim/setup-pack-plugins.md)
 
 ## About
 
