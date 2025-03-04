@@ -17,8 +17,8 @@
 
 ### Libvirt
 
-- [Background The Install](background-the-install.md)
-- [Resolve DNS From The Host](resolve-dns-from-the-host.md)
+- [Background The Install](libvirt/background-the-install.md)
+- [Resolve DNS From The Host](libvirt/resolve-dns-from-the-host.md)
 
 ### Linux
 
@@ -38,7 +38,7 @@
 
 ### Vim
 
-- [Setup Pack Plugins](setup-pack-plugins.md)
+- [Setup Pack Plugins](libvirt/setup-pack-plugins.md)
 
 ## About
 
